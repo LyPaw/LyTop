@@ -1,1 +1,1 @@
-https://lypaw.github.io/LyTop/
+[Web](https://lypaw.github.io/App_Ranking_Qwen/)
